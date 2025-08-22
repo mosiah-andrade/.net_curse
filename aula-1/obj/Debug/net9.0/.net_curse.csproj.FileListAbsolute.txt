@@ -1,0 +1,14 @@
+C:\Users\mosia\OneDrive\Documentos\.net_curse\bin\Debug\net9.0\.net_curse.exe
+C:\Users\mosia\OneDrive\Documentos\.net_curse\bin\Debug\net9.0\.net_curse.deps.json
+C:\Users\mosia\OneDrive\Documentos\.net_curse\bin\Debug\net9.0\.net_curse.runtimeconfig.json
+C:\Users\mosia\OneDrive\Documentos\.net_curse\bin\Debug\net9.0\.net_curse.dll
+C:\Users\mosia\OneDrive\Documentos\.net_curse\bin\Debug\net9.0\.net_curse.pdb
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\.net_curse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\.net_curse.AssemblyInfoInputs.cache
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\.net_curse.AssemblyInfo.cs
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\.net_curse.csproj.CoreCompileInputs.cache
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\.net_curse.dll
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\refint\.net_curse.dll
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\.net_curse.pdb
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\.net_curse.genruntimeconfig.cache
+C:\Users\mosia\OneDrive\Documentos\.net_curse\obj\Debug\net9.0\ref\.net_curse.dll
