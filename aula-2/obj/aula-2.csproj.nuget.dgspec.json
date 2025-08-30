@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/.net_curse/aula-2/aula-2.csproj": {}
+    "C:\\Users\\mosia\\OneDrive\\Documentos\\.net_curse\\aula-2\\aula-2.csproj": {}
   },
   "projects": {
-    "/workspaces/.net_curse/aula-2/aula-2.csproj": {
+    "C:\\Users\\mosia\\OneDrive\\Documentos\\.net_curse\\aula-2\\aula-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/.net_curse/aula-2/aula-2.csproj",
+        "projectUniqueName": "C:\\Users\\mosia\\OneDrive\\Documentos\\.net_curse\\aula-2\\aula-2.csproj",
         "projectName": "aula-2",
-        "projectPath": "/workspaces/.net_curse/aula-2/aula-2.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/.net_curse/aula-2/obj/",
+        "projectPath": "C:\\Users\\mosia\\OneDrive\\Documentos\\.net_curse\\aula-2\\aula-2.csproj",
+        "packagesPath": "C:\\Users\\mosia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mosia\\OneDrive\\Documentos\\.net_curse\\aula-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mosia\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -37,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
