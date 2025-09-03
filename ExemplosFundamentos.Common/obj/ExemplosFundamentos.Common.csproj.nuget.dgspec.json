@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/.net_curse/aula-2/aula-2.csproj": {}
+    "/workspaces/.net_curse/ExemplosFundamentos.Common/ExemplosFundamentos.Common.csproj": {}
   },
   "projects": {
-    "/workspaces/.net_curse/aula-2/aula-2.csproj": {
+    "/workspaces/.net_curse/ExemplosFundamentos.Common/ExemplosFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/.net_curse/aula-2/aula-2.csproj",
-        "projectName": "aula-2",
-        "projectPath": "/workspaces/.net_curse/aula-2/aula-2.csproj",
+        "projectUniqueName": "/workspaces/.net_curse/ExemplosFundamentos.Common/ExemplosFundamentos.Common.csproj",
+        "projectName": "ExemplosFundamentos.Common",
+        "projectPath": "/workspaces/.net_curse/ExemplosFundamentos.Common/ExemplosFundamentos.Common.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/.net_curse/aula-2/obj/",
+        "outputPath": "/workspaces/.net_curse/ExemplosFundamentos.Common/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"
