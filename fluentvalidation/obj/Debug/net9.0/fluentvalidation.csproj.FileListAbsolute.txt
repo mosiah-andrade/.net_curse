@@ -1,0 +1,5 @@
+C:\Users\mosia\OneDrive\Documentos\.net_curse\fluentvalidation\obj\Debug\net9.0\fluentvalidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mosia\OneDrive\Documentos\.net_curse\fluentvalidation\obj\Debug\net9.0\fluentvalidation.AssemblyInfoInputs.cache
+C:\Users\mosia\OneDrive\Documentos\.net_curse\fluentvalidation\obj\Debug\net9.0\fluentvalidation.AssemblyInfo.cs
+C:\Users\mosia\OneDrive\Documentos\.net_curse\fluentvalidation\obj\Debug\net9.0\fluentvalidation.csproj.CoreCompileInputs.cache
+C:\Users\mosia\OneDrive\Documentos\.net_curse\fluentvalidation\obj\Debug\net9.0\fluentvalidation.sourcelink.json
